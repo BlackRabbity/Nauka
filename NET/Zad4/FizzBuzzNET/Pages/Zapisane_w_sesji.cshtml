@@ -1,0 +1,17 @@
+﻿@page
+@model FizzBuzzNET.Pages.Zapisane_w_sesjiModel
+@{
+    @if (Model.fizzbuzz != null)
+    {
+        <p>
+            @Html.DisplayNameFor(model => Model.fizzbuzz.Liczba):
+        @Model.fizzbuzz.Liczba
+    </p>
+    <p>@Model.fizzbuzz.Wynik</p>
+    <p>
+        @Html.DisplayNameFor(model => Model.fizzbuzz.Data):
+    @Model.fizzbuzz.Data
+</p>
+    
+    }
+}
