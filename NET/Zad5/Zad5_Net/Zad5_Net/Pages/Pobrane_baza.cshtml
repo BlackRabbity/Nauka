@@ -1,0 +1,11 @@
+﻿@page
+@model Pobrane_bazaModel
+@{
+    ViewData["Title"] = "Pobrane z bazy danych:";
+}
+<h1>@ViewData["Title"]</h1>
+
+@foreach (var item in Model.Product)
+{<p><h3>@Html.DisplayFor(modelItem => item.Title)</h3></p>
+}
+
