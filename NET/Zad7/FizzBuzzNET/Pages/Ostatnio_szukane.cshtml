@@ -1,0 +1,15 @@
+﻿@page
+@model FizzBuzzNET.Pages.Ostatnio_szukaneModel
+@{
+    ViewData["Title"] = "Ostatnio szukane";
+}
+
+<h3> Baza danych: </h3>
+@foreach (var item in Model.Fizzbuzzes)
+{
+<p>
+    @Html.DisplayFor(modelItem => item.Liczba)
+    @Html.DisplayFor(modelItem => item.Wynik)
+    @Html.DisplayFor(modelItem => item.Data)
+</p>
+}
