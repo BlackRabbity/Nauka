@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="hey_listen">Hey listen</string>
+    <string name="textview">TextView</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_1">Kompozytorem muzyki do Władcy Pierścini jest Howard Shore.</string>
+    <string name="q_2">John Williams komponował muzykę do wszystkich części Star Wars oraz Harrego Pottera.</string>
+    <string name="q_3">Jeden z najbardziej rozpoznawalnych filmowych kompozytorów Hans Zimmer tworzył muzykę też do gier.</string>
+    <string name="q_4">Ennio Morricone słynie między innymi ze swojej muzyki do westernów z Clintem Eastwoodem.  </string>
+    <string name="q_5">Vangelis jest autorem muzyki starego i nowego Blade Runnera. </string>
+    <string name="correct_answer">Prawidłowa odpowiedź</string>
+    <string name="incorrect_answer">Zła odpowiedź</string>
+</resources>
