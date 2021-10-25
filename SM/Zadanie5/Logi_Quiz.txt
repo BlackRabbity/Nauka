@@ -1,0 +1,32 @@
+Po pierwszym uruchomieniu (onCreate, onStart, onResume):
+2021-10-25 15:44:10.722 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-10-25 15:44:10.801 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-25 15:44:10.801 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po wciśnięciu przycisku cofnij (OnPause, onStop, onDestroy) :
+2021-10-25 15:45:57.402 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-10-25 15:45:58.129 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-10-25 15:45:58.130 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+
+Po ponownym uruchomieniu aplikacji (onCreate, onStart, onResume):
+2021-10-25 15:47:13.741 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-10-25 15:47:13.762 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-25 15:47:13.763 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po wyjściu przyciskiem ekranu głównego Home (onPause, onStop):
+2021-10-25 15:48:15.553 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-10-25 15:48:16.366 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStop
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji(onStart, onResume):
+2021-10-25 15:49:21.994 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-25 15:49:21.995 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po zmianie orientacji ekranu aplikacja przechodzi do początku quizu (olnPause, onStop, onDestroy, onCreate, onStart, onResume):
+2021-10-25 15:53:26.537 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-10-25 15:53:26.545 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-10-25 15:53:26.546 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+2021-10-25 15:53:26.558 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-10-25 15:53:26.582 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-25 15:53:26.582 14655-14655/com.michal.quiz D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+
