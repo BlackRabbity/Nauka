@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zadanie6_MM</string>
+
+    <string name="task_name_hint">Wprowadz nazwe zadania</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+
+    <string name="task_item_name">Nazwa</string>
+    <string name="task_item_date">Data</string>
+
+</resources>
