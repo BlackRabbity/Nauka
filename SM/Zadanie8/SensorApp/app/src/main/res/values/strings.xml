@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+
+
+    <string name="menu_button">menu button</string>
+    <string name="sensors_count">Sensors:%d </string>
+    <string name="sensor_data">Sensor data</string>
+    <string name="sensor_value">Sensor value</string>
+    <string name="missing_sensor">No Sensor</string>
+    <string name="light_sensor_label">Light sensor %f</string>
+    <string name="pressure_sensor_label">Pressure sensor %f</string>
+
+    <string name="temperature_sensor_label">Temperature sensor %f</string>
+
+    <string name="sensor_name">Sensor name</string>
+</resources>
