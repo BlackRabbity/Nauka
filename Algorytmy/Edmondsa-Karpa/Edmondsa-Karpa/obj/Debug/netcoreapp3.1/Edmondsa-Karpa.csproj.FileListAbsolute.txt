@@ -1,0 +1,26 @@
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.exe
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.deps.json
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.runtimeconfig.json
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.runtimeconfig.dev.json
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.dll
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.pdb
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.csprojAssemblyReference.cache
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.AssemblyInfoInputs.cache
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.AssemblyInfo.cs
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.dll
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.pdb
+C:\Users\Dom\source\repos\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.genruntimeconfig.cache
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.exe
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.deps.json
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.runtimeconfig.json
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.runtimeconfig.dev.json
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.dll
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\bin\Debug\netcoreapp3.1\Edmondsa-Karpa.pdb
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.csprojAssemblyReference.cache
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.AssemblyInfoInputs.cache
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.AssemblyInfo.cs
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.csproj.CoreCompileInputs.cache
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.dll
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.pdb
+D:\d01\studia\sem_3\pomoc_innym_ludziom\Michał Micun\ps_7_8\Edmondsa-Karpa\Edmondsa-Karpa\obj\Debug\netcoreapp3.1\Edmondsa-Karpa.genruntimeconfig.cache
