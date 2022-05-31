@@ -1,0 +1,82 @@
+﻿<Window x:Class="ModulyKryptograficzne.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModulyKryptograficzne"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Label Margin="5" Padding="5">Rail Fence</Label>
+        <TextBox Name="wej1" Margin="3" Padding="0,5" MinWidth="100" Grid.Column="1" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Label Grid.Column="2" Margin="5" Padding="5">n:</Label>
+        <TextBox Name="n1" PreviewTextInput="PreviewTextInput" Margin="3"  Padding="0,5" MinWidth="30"  Grid.Column="3" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Button Content="Szyfruj" Grid.Column="4" Margin="5" Padding="15,5" Click="Button_Click"></Button>
+        <Label Grid.Column="5" Margin="20,5" Padding="5">Wynik:</Label>
+        <TextBox Name="wynik1" Margin="3"  Padding="0,5" Grid.Column="6" IsReadOnly="True" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+
+        <Label Margin="5" Padding="5" Grid.Row="1" >Rail Fence</Label>
+        <TextBox Name="wej2" Margin="3"  Padding="0,5" MinWidth="100"  Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Label Grid.Column="2" Margin="5" Padding="5" Grid.Row="1">n:</Label>
+        <TextBox Grid.Row="1" Name="n2" PreviewTextInput="PreviewTextInput" Margin="3"  Padding="0,5" MinWidth="30"  Grid.Column="3" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Button Grid.Row="1" Content="Deszyfruj" Grid.Column="4" Margin="5" Padding="15,5" Click="Button_Click_1"></Button>
+        <Label Grid.Row="1" Grid.Column="5" Margin="20,5" Padding="5">Wynik:</Label>
+        <TextBox Grid.Row="1" Name="wynik2" Margin="3"  Padding="0,5" Grid.Column="6" IsReadOnly="True" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+
+
+        <Label Margin="5" Padding="5" Grid.Row="2" >Przed. Macierzowe A</Label>
+        <TextBox Name="wej3" Margin="3"  Padding="0,5" MinWidth="100"  Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Label Grid.Column="2" Margin="5" Padding="5" Grid.Row="2">n:</Label>
+        <TextBox Grid.Row="2" Name="n3" Margin="3"  Padding="0,5" MinWidth="30"  Grid.Column="3" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Button Grid.Row="2" Content="Szyfruj" Grid.Column="4" Margin="5" Padding="15,5" Click="Button_Click_2"></Button>
+        <Label Grid.Row="2" Grid.Column="5" Margin="20,5" Padding="5">Wynik:</Label>
+        <TextBox Grid.Row="2" Name="wynik3" Margin="3"  Padding="0,5" Grid.Column="6" IsReadOnly="True" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+
+        <Label Margin="5" Padding="5" Grid.Row="3" >Przed. Macierzowe A</Label>
+        <TextBox Name="wej4" Margin="3"  Padding="0,5" MinWidth="100"  Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Label Grid.Column="2" Margin="5" Padding="5" Grid.Row="3">n:</Label>
+        <TextBox Grid.Row="3" Name="n4"  Margin="3"  Padding="0,5" MinWidth="30"  Grid.Column="3" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Button Grid.Row="3" Content="Deszyfruj" Grid.Column="4" Margin="5" Padding="15,5" Click="Button_Click_3"></Button>
+        <Label Grid.Row="3" Grid.Column="5" Margin="20,5" Padding="5">Wynik:</Label>
+        <TextBox Grid.Row="3" Name="wynik4" Margin="3"  Padding="0,5" Grid.Column="6" IsReadOnly="True" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+
+        <Label Margin="5" Padding="5" Grid.Row="4" >Przed. Macierzowe B</Label>
+        <TextBox Name="wej5" Margin="3"  Padding="0,5" MinWidth="100"  Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Label Grid.Column="2" Margin="5" Padding="5" Grid.Row="4">n:</Label>
+        <TextBox Grid.Row="4" Name="n5"  Margin="3"  Padding="0,5" MinWidth="30" Grid.Column="3" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Button Grid.Row="4" Content="Szyfruj" Grid.Column="4" Margin="5" Padding="15,5" Click="Button_Click_4"></Button>
+        <Label Grid.Row="4" Grid.Column="5" Margin="20,5" Padding="5">Wynik:</Label>
+        <TextBox Grid.Row="4" Name="wynik5" Margin="3"  Padding="0,5" Grid.Column="6" IsReadOnly="True" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+
+        <Label Margin="5" Padding="5" Grid.Row="5" >Przed. Macierzowe B</Label>
+        <TextBox Name="wej6" Margin="3"  Padding="0,5" MinWidth="100"  Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Label Grid.Column="2" Margin="5" Padding="5" Grid.Row="5">n:</Label>
+        <TextBox Grid.Row="5" Name="n6"  Margin="3"  Padding="0,5" MinWidth="30"  Grid.Column="3" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+        <Button Grid.Row="5" Content="Deszyfruj" Grid.Column="4" Margin="5" Padding="15,5" Click="Button_Click_5"></Button>
+        <Label Grid.Row="5" Grid.Column="5" Margin="20,5" Padding="5">Wynik:</Label>
+        <TextBox Grid.Row="5" Name="wynik6" Margin="3"  Padding="0,5" Grid.Column="6" IsReadOnly="True" VerticalAlignment="Center" TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
+
+
+
+
+
+    </Grid>
+</Window>

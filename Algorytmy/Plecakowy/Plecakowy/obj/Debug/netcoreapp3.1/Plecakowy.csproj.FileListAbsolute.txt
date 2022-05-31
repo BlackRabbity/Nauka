@@ -1,0 +1,13 @@
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\bin\Debug\netcoreapp3.1\Plecakowy.exe
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\bin\Debug\netcoreapp3.1\Plecakowy.deps.json
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\bin\Debug\netcoreapp3.1\Plecakowy.runtimeconfig.json
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\bin\Debug\netcoreapp3.1\Plecakowy.runtimeconfig.dev.json
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\bin\Debug\netcoreapp3.1\Plecakowy.dll
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\bin\Debug\netcoreapp3.1\Plecakowy.pdb
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\obj\Debug\netcoreapp3.1\Plecakowy.csprojAssemblyReference.cache
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\obj\Debug\netcoreapp3.1\Plecakowy.AssemblyInfoInputs.cache
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\obj\Debug\netcoreapp3.1\Plecakowy.AssemblyInfo.cs
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\obj\Debug\netcoreapp3.1\Plecakowy.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\obj\Debug\netcoreapp3.1\Plecakowy.dll
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\obj\Debug\netcoreapp3.1\Plecakowy.pdb
+C:\Users\Dom\source\repos\Plecakowy\Plecakowy\obj\Debug\netcoreapp3.1\Plecakowy.genruntimeconfig.cache

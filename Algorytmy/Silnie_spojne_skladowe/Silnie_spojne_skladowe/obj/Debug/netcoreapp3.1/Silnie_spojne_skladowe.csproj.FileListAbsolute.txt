@@ -1,0 +1,13 @@
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\bin\Debug\netcoreapp3.1\Silnie_spojne_skladowe.exe
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\bin\Debug\netcoreapp3.1\Silnie_spojne_skladowe.deps.json
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\bin\Debug\netcoreapp3.1\Silnie_spojne_skladowe.runtimeconfig.json
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\bin\Debug\netcoreapp3.1\Silnie_spojne_skladowe.runtimeconfig.dev.json
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\bin\Debug\netcoreapp3.1\Silnie_spojne_skladowe.dll
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\bin\Debug\netcoreapp3.1\Silnie_spojne_skladowe.pdb
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\obj\Debug\netcoreapp3.1\Silnie_spojne_skladowe.csprojAssemblyReference.cache
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\obj\Debug\netcoreapp3.1\Silnie_spojne_skladowe.AssemblyInfoInputs.cache
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\obj\Debug\netcoreapp3.1\Silnie_spojne_skladowe.AssemblyInfo.cs
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\obj\Debug\netcoreapp3.1\Silnie_spojne_skladowe.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\obj\Debug\netcoreapp3.1\Silnie_spojne_skladowe.dll
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\obj\Debug\netcoreapp3.1\Silnie_spojne_skladowe.pdb
+C:\Users\Dom\source\repos\Silnie_spojne_skladowe\Silnie_spojne_skladowe\obj\Debug\netcoreapp3.1\Silnie_spojne_skladowe.genruntimeconfig.cache

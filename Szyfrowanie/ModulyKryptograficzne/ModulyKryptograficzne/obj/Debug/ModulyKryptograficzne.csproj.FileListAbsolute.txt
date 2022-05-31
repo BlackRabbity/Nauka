@@ -1,0 +1,15 @@
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\bin\Debug\ModulyKryptograficzne.exe.config
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\bin\Debug\ModulyKryptograficzne.exe
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\bin\Debug\ModulyKryptograficzne.pdb
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne.csprojAssemblyReference.cache
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\MainWindow.g.cs
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\App.g.cs
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne_MarkupCompile.cache
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne_MarkupCompile.lref
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\MainWindow.baml
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne.g.resources
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne.Properties.Resources.resources
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne.csproj.GenerateResource.cache
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne.exe
+C:\Users\Dom\source\repos\ModulyKryptograficzne\ModulyKryptograficzne\obj\Debug\ModulyKryptograficzne.pdb
