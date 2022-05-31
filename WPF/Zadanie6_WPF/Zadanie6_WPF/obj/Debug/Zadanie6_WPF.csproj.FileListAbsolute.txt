@@ -1,0 +1,15 @@
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\bin\Debug\Zadanie6_WPF.exe.config
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\bin\Debug\Zadanie6_WPF.exe
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\bin\Debug\Zadanie6_WPF.pdb
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF.csprojAssemblyReference.cache
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\MainWindow.g.cs
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\App.g.cs
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF_MarkupCompile.cache
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF_MarkupCompile.lref
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\MainWindow.baml
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF.g.resources
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF.Properties.Resources.resources
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF.csproj.GenerateResource.cache
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF.csproj.CoreCompileInputs.cache
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF.exe
+D:\Michal\Studia\Repozytoria\Nauka\WPF\Zadanie6_WPF\Zadanie6_WPF\obj\Debug\Zadanie6_WPF.pdb

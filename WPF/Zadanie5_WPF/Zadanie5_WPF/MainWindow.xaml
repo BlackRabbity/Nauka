@@ -1,0 +1,30 @@
+﻿<Window x:Class="Zadanie5_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie5_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <DockPanel LastChildFill="True" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+                <ScrollViewer IsTabStop="True" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListBox Name="ListaFilmow" FontSize="16" SelectionChanged="ListaFilmow_SelectionChanged" >
+                    </ListBox>
+                </ScrollViewer>
+        </DockPanel>
+        <WrapPanel HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Row="1">
+            <Button Margin="3" Padding="15,3" Click="Button_Click">Dodaj</Button>
+            <Button Margin="3" Padding="15,3" Click="Button_Click_2" Name="usun" IsEnabled="False">Usuń</Button>
+            <Button Margin="3" Padding="15,3" Click="Button_Click_1" Name="edytuj" IsEnabled="False">Edytuj</Button>
+            <Button Margin="3" Padding="15,3" Click="Button_Click_3" Name="podglad" IsEnabled="False" >Podglad</Button>
+        </WrapPanel>
+    </Grid>
+</Window>
